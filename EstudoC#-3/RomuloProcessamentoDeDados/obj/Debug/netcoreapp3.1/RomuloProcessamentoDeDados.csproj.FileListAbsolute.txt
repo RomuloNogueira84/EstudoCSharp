@@ -1,0 +1,14 @@
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.exe
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.deps.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.runtimeconfig.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.runtimeconfig.dev.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\bin\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-3\RomuloProcessamentoDeDados\obj\Debug\netcoreapp3.1\RomuloProcessamentoDeDados.genruntimeconfig.cache
