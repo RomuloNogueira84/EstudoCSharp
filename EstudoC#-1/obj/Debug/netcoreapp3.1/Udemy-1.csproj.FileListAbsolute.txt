@@ -1,0 +1,14 @@
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.exe
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.deps.json
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.runtimeconfig.json
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.runtimeconfig.dev.json
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.dll
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\bin\Debug\netcoreapp3.1\Udemy-1.pdb
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.AssemblyInfo.cs
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.dll
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.pdb
+C:\Users\romul\Desktop\C#\UDEMY\Udemy-1\obj\Debug\netcoreapp3.1\Udemy-1.genruntimeconfig.cache

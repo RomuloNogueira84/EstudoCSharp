@@ -1,0 +1,14 @@
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.exe
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.deps.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.runtimeconfig.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.runtimeconfig.dev.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\bin\Debug\netcoreapp3.1\RomuloConcatenar.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.AssemblyInfo.cs
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-2\RomuloConcatenar\obj\Debug\netcoreapp3.1\RomuloConcatenar.genruntimeconfig.cache
