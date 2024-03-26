@@ -1,0 +1,14 @@
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.exe
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.deps.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.runtimeconfig.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.runtimeconfig.dev.json
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.AssemblyInfo.cs
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.dll
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.pdb
+C:\Users\romul\Desktop\C#\EstudoC#\EstudoC#-6\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.genruntimeconfig.cache
